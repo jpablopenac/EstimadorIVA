@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.vscode/
+.claude/
+
+# Datos reales de la empresa (no versionar)
+data/historial.json

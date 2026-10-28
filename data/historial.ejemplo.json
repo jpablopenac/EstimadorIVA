@@ -1,0 +1,18 @@
+[
+  {
+    "periodo": "202601",
+    "rut": "11111111-1",
+    "empresa": "Empresa Demo",
+    "ventas_neto": 10000000,
+    "ventas_iva_debito": 1900000,
+    "compras_neto": 4000000,
+    "compras_iva_credito": 760000,
+    "remanente_anterior": 0,
+    "iva_neto": 1140000,
+    "ppm_monto": 100000,
+    "impuesto_unico": 0,
+    "f29_total": 1240000,
+    "nc_corregidas": 0,
+    "diferencia_nc": 0
+  }
+]
